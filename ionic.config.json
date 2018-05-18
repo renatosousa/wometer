@@ -1,0 +1,8 @@
+{
+  "name": "wometer",
+  "app_id": "7ba48584",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
